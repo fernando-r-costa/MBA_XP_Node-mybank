@@ -1,0 +1,45 @@
+{
+  "nextId": 15,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "José Silva",
+      "balance": 1234.5
+    },
+    {
+      "id": 2,
+      "name": "Fernando Costa",
+      "balance": 4000
+    },
+    {
+      "id": 4,
+      "name": "Débora Luz César",
+      "balance": 5000
+    },
+    {
+      "id": 6,
+      "name": "João Luiz",
+      "balance": 1200
+    },
+    {
+      "id": 7,
+      "name": "João Luiz",
+      "balance": 1200
+    },
+    {
+      "id": 10,
+      "name": "Guilherme",
+      "balance": 1000
+    },
+    {
+      "id": 11,
+      "name": "Guilherme 2",
+      "balance": 2000
+    },
+    {
+      "id": 13,
+      "name": "Guilherme",
+      "balance": 1000
+    }
+  ]
+}
